@@ -63,19 +63,3 @@ let compare1 = {
 }
 let compare2 = compare1
 console.log(compare1 == compare2)  // true 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
