@@ -1,5 +1,5 @@
 # Javascript
-An Roadmap to Learn Javascript from the very beginning which also includes DSA.
+Learn Javascript from the very beginning which also includes DSA.
  <pre>{
    @js-learner = {
         Credits = {
