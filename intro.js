@@ -97,15 +97,3 @@ console.log(num +" "+ cha+" "+bool)
 const PI = 3.14
 const number =10
 console.log(PI,number)
-
-
-
-
-
-
-
-
-
-=======
-console.log(compare1 == compare2)  // true 
->>>>>>> 2353c65c65778b35f9a7458e442ab7503c5812bd
