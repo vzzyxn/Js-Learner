@@ -62,6 +62,7 @@ let compare1 = {
     fav:'pyhton'
 }
 let compare2 = compare1
+<<<<<<< HEAD
 console.log(compare1 == compare2)  // true
 
 //example-3
@@ -105,3 +106,6 @@ console.log(PI,number)
 
 
 
+=======
+console.log(compare1 == compare2)  // true 
+>>>>>>> 2353c65c65778b35f9a7458e442ab7503c5812bd
