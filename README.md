@@ -1,5 +1,5 @@
 # Javascript
-Learn Javascript from the very beginning which also includes DSA.
+Learn Javascript from the very beginning which also includes Data structures and Algorithm.
  <pre>{
    @js-learner = {
         Credits = {
