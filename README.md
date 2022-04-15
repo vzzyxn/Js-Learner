@@ -1,5 +1,5 @@
 # Javascript
-fcp = FreeCodeCamp
+fcp contains: Basic Javascript, Javascript Algorithms and Data Structures
  <pre>{
    @js-learner = {
         Credits = {
