@@ -1,5 +1,5 @@
 # Javascript
-Learn Javascript from the very beginning which also includes Data structures and Algorithm.
+fcp contains: Basic Javascript, Javascript Algorithms and Data Structures
  <pre>{
    @js-learner = {
         Credits = {
